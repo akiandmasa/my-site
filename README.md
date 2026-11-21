@@ -1,7 +1,7 @@
 ## 🌐 My Links
 
-- 🌸 **Anime Fan Website:** https://akiandmasa.github.io/Masamune-kuns-Revenge/
-- 💻 **Portfolio:** https://akiandmasa.github.io/Portfolio/
+- 🌸 **Anime Fan Website:** https://akiandmasa.github.io/best-anime/
+- 💻 **Portfolio:** https://akiandmasa.github.io/my-site/
 - 🎀 **guns.lol:** [guns.lol/akiandmasa](https://guns.lol/akiandmasa)
 - 💜 **Discord:** [Add me on Discord](https://discord.com/users/1284837972897828864)
 - 💬 **My Server:** [Join the Discord Community](https://discord.gg/rJzgZx6Nam)
